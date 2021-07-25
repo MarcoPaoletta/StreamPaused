@@ -1,9 +1,15 @@
 # Stream paused
 * Proyecto para utilizar esta funcion, manejar estados de etiquetas, mostrar elementos y mas dependiendo de que es lo que suceda
 * Un ejemplo de esto es el color de fondo, botones, etiquetas e imagenes
+* Cuando se termina de reproducir la cancion, la etiqueta de la parte superior tambien se actualiza
+* Tenemos un boton Inicio, el cual reproducira la cancion desde su principio
+
 ---
 # Demostracion
-
+* Al tocar la tecla P comenzamos a observas estos cambios:
+ <img width=50% src=https://github.com/MarcoPaoletta/StreamPaused/blob/master/Demostration.gif> 
+ 
+---
 
 # Descargar Godot Engine e importar el proyecto
 ## Descargar Godot Engine
